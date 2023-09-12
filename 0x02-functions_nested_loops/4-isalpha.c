@@ -1,22 +1,17 @@
 #include "main.h"
-
 /**
- * _isalpha - check the code for ALX School students.
- *
- * @c: is c an integer argument
- *
- * Return: Always 0.
+ * _isalpha - Checks charcter
+ * @c: The charceter
+ * Return: 1 for all
  */
 
 int _isalpha(int c)
-{
 
-	if (c >= 97 && c <= 122)
-	{
-		return (1);
-	}
-	else if (c >= 65 && c <= 90)
+{
+	if ((c >= 65 && c <= 90) || (c >= 97 && c <= 122))
 	{
 		return (1);
 	}
 	return (0);
+}
+
