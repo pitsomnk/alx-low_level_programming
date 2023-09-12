@@ -2,8 +2,10 @@
 
 
 	/**
-	 * print_alphabet-print all alphabet
+	 * print_alphabet - print all alphabet
+	 *
 	 * description:print all alphabet in lower case
+	 *
 	 *@letter: checks characters if alphabet
 	 */
 
