@@ -1,1 +1,1 @@
-this is a c debugging readme
+new readme for debugging
