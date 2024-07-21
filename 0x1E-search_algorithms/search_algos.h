@@ -6,9 +6,9 @@
 #include <stdlib.h>
 
 /**
- * @n: Integer
- * @index: Index of the node in the list
- * @next: Pointer to the next node
+ * Integer
+ * Index of the node in the list
+ * Pointer to the next node
  *
  * Description: singly linked list node structure
  */
